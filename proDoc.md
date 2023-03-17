@@ -63,3 +63,41 @@
 
 ![API](images/apijs.png "API")
 
+## MODELS
+
+#### Command: npm install mongoose and mkdir models (install mongoose and create models directory)
+
+#### Output:
+![Mongoose](images/mongoose.png "Mongoose Installation")
+
+![Model Config](images/modelTodo.png "Model Config")
+
+![API](images/apijs2.png "API")
+
+## MONGODB DATABASE
+
+#### Command: create a mongoDB Database and collection
+
+#### Output:
+![mongoDB](images/mongoDB.png "MongoDB and Collection")
+
+![DB_User_Access](images/dbAccess.png "Database User Access")
+
+![Network_Access](images/networkAccess.png "Network Access")
+
+
+![Connections_String](images/connectionString.png "Connection String")
+
+### Create .env file
+![env_File](images/env.png "env_File")
+
+### Update index.js file
+
+![IndexJS](images/indexjs2.png "indexjs Update")
+
+### Start Server
+
+![startServer](images/serverRunning2.png "startServer")
+
+
+
