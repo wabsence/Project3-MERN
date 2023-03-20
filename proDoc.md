@@ -99,5 +99,23 @@
 
 ![startServer](images/serverRunning2.png "startServer")
 
+### POSTMAN (consuming all endpoint API)
+
+#### POST REQUEST
+![postRequest](images/postRequest.png "postRequest")
+
+#### GET REQUEST
+![getRequest](images/getRequest.png "postRequest")
+
+
+#### BROWSER OUTPUT
+![Browser](images/browserOutput.png "Browser")
+
+#### DELETE REQUEST
+![deleteRequest](images/deleteRequest.png "deleteRequest")
+
+#### BROWSER OUTPUT AFTER DELETE REQUEST
+![Browser](images/browserOutput2.png "Browser")
+
 
 
