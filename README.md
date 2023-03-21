@@ -4,7 +4,7 @@
 
 ### It focus span accross different unique task, whose aim is to ensure you have a solid grasp of a concept.
 
-### In this project, we build a TO-DO APP to help keep track of our daily task. 
+### In this project, we build a TO-DO Application to help keep track of our daily task. 
 
 ### We desigened our frontend application using React.js that communicate with a backend application written in Express.js. We also ultilized Mongodb to store and manage our database
 
