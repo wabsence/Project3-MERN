@@ -179,7 +179,7 @@
 
 #### A TASK DELETED
 
-![deleteTASK](images/deleteTASk.png "deleteTASK")
+![deleteTASK](images/deleteTASK.png "deleteTASK")
 
 
 
