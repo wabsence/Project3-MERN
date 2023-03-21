@@ -117,5 +117,73 @@
 #### BROWSER OUTPUT AFTER DELETE REQUEST
 ![Browser](images/browserOutput2.png "Browser")
 
+## STEP 2: FRONT END CREATION
+
+#### SCARFFOLDING REACT APP
+![reactAPP](images/reactApp.png "reactAPP")
+
+#### Installing dependencies such as concurrently and nodemon 
+
+![concurrentlyNodemon](images/concurrentlyNodemon.png "concurrentlyNodemon")
+
+#### Update Package.json
+
+![packageJSON_UPDATE](images/packageJSON_UPDATE.png "packageJSON_UPDATE")
+
+#### Update Package.json in Client
+#### Add "proxy": "http://localhost:5000" for react port.
+
+![reactPort](images/reactPort.png "reactPort")
+
+#### Run and Start the REACT App
+
+#### Command npm run dev
+
+![npmRunDev](images/npmRunDev.png "npmRunDev")
+
+#### Checking The REACT APP on BROWSER via IP in port 3000
+![Browser](images/browserOutput3.png "Browser")
+
+## REACT COMPONENT
+
+![reactComponent](images/reactComponent1.png "reactComponent")
+
+## Axios Installation
+
+![AXIOS INSTALLATION](images/axios.png "Axios Installation")
+
+#### Second COMPONENT
+
+![reactComponent](images/reactComponent2.png "reactComponent")
+
+#### Third COMPONENT
+
+![reactComponent](images/reactComponent3.png "reactComponent")
+
+#### Updating files in the SRC directory
+![appJS](images/appJS.png "appJS")
+
+![appCSS](images/appCSS.png "appCSS")
+
+![indexCSS](images/indexCSS.png "indexCSS")
+
+## TO-DO APP OUTPUT
+
+#### VIEWING ALL TASKS
+
+![viewTASK](images/viewTASK.png "viewTASK")
+
+#### NEW TASKS CREATED
+
+![createTASK](images/createTASK.png "createTASK")
+
+#### A TASK DELETED
+
+![deleteTASK](images/deleteTASk.png "deleteTASK")
+
+
+
+
+
 
 
